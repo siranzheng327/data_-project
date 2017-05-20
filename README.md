@@ -1,4 +1,4 @@
-# Python_project
+# Python Project
 # This repository is a series of notebooks that show solutions for the [projects]
 
 - [Guided Project: Exploring Gun Deaths in the US](https://github.com/dataquestio/solutions/blob/master/Mission218Solution.ipynb)
