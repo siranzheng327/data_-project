@@ -1,5 +1,5 @@
-# Python Project
-This repository is a series of notebooks that show solutions for the projects
+# Python Projects
+This repository is a series of notebooks that show solutions for my machine learning projects
 
 - [Exploring Gun Deaths in the US](https://github.com/siranzheng327/python_project/blob/master/Basics.ipynb)
 - [Analyzing Thanksgiving Dinner](https://github.com/siranzheng327/python_project/blob/master/thanks_giving_Analzing.ipynb)
